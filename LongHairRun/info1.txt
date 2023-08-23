@@ -1,0 +1,1 @@
+{"gameName":"Long Hair Run : Hair Rush","gameURL":"https://apps.apple.com/us/app/long-hair-run-hair-rush/id1566116441","discription":"Unleash your running skills in Long Hair Run! Grow your hair, get gems and avoid obstacles","bundleId":"com.olives.hair.challenge.run"}
