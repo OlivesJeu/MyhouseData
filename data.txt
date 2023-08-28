@@ -1,1 +1,1 @@
-{"games":[{"isActive":1,"folderName":"LongHairRun","backgrouns":["AD1.jpg"],"backgrounsPort":["AD2.jpg"],"icons":["Icon.png"],"infos":["info1.txt"]}]}
+{"games":[{"isActive":1,"folderName":"LongHairRun","backgrouns":["AD1.jpg"],"backgrounsPort":["AD2.jpg"],"icons":["Icon.png"],"infos":["info1.txt"]},{"isActive":1,"folderName":"BananaFight","backgrouns":[],"backgrounsPort":["11.jpg","22.jpg","33.jpg","44.jpg"],"icons":["icon.jpg"],"infos":["info1.txt","info2.txt","info3.txt","info4.txt"]}]}
