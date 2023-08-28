@@ -1,0 +1,6 @@
+{
+  "gameName": "Banana Merge : Fruit Fight",
+  "gameURL": "https://apps.apple.com/tr/app/banana-merge-fruit-fight/id6463431367",
+  "discription": "Ready for a fruity challenge? 🍌🍎 Merge, strategize, and battle in Banana Merge: Fruit Fight! Combine juicy fruits, strategize your moves, and conquer the orchard. Download now and crush those fruity puzzles!",
+  "bundleId": "com.banana.fruit.fight"
+}
