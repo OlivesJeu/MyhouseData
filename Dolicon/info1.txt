@@ -1,0 +1,6 @@
+{
+  "gameName": "Doll Makeover & Avatar Creator",
+  "gameURL": "https://apps.apple.com/tr/app/doll-makeover-avatar-creator/id1560541925",
+  "discription": "A virtual doll makeup game allows doll makeover to customise their own special diy doll avatar and try out various cosmetics looks.",
+  "bundleId": "com.cute.doll.face.makerover.avatar"
+}

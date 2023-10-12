@@ -1,0 +1,6 @@
+{
+  "gameName": "Weed Games : Drug Mafia",
+  "gameURL": "https://apps.apple.com/tr/app/weed-games-drug-mafia/id1616825002",
+  "discription": "Play a drug mafia game and a weed tycoon may control and grow your own digital weed farm to rise to the position of ultimate weed tycoon",
+  "bundleId": "com.weed.bud.farm.drug.mart"
+}

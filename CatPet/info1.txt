@@ -1,0 +1,6 @@
+{
+  "gameName": "Pet Choices Cat Life Simulator",
+  "gameURL": "https://apps.apple.com/tr/app/pet-choices-cat-life-simulator/id6466288767",
+  "discription": "Exciting pet life simulator journey through the puppy simulator game.",
+  "bundleId": "com.olive.doctor.pet.simulator"
+}

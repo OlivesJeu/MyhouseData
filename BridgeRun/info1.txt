@@ -1,0 +1,6 @@
+{
+  "gameName": "Money Run Rush 3D",
+  "gameURL": "https://apps.apple.com/tr/app/money-run-rush-3d/id6450535887",
+  "discription": "Your aim is to get wealthy and gain money in various forms, such as cash, gold bars, diamonds, and so on",
+  "bundleId": "com.run.bridge.race.money"
+}

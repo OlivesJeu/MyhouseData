@@ -1,0 +1,6 @@
+{
+  "gameName": "Mini Mart : Shopping Games",
+  "gameURL": "https://apps.apple.com/tr/app/mini-mart-shopping-games/id1611699983",
+  "discription": "Start with a mini-mart and turn it into a big supermarket business. Build a bakery, sell fruits and vegetables.",
+  "bundleId": "com.mini.mart.supermarket"
+}
